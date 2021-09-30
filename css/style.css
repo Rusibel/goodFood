@@ -738,7 +738,7 @@ a {
     }
 }
 
-.carousel-indicators {
+/* .carousel-indicators {
     position: absolute;
     right: 0;
     bottom: 0;
@@ -765,4 +765,4 @@ a {
     border-bottom: 10px solid transparent;
     opacity: .5;
     transition: opacity .6s ease;
-}
+} */

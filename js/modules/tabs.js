@@ -1,5 +1,3 @@
-const { Module } = require("webpack");
-
 function tabs() {
 
     // табы
